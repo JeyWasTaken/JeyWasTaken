@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @JeyWasTaken
-- 🌱 I’m currently learning java. In the future, I plan to learn C#, C++, and SQL
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dog's name is Lucy
+- 👋 Hi, I’m JeyWasTaken
